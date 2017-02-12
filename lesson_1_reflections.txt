@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It allowed me to carefully examine what wa was working as expected and, hence, the discrepancy meant that the dfsfsdfsdfsfs
+gdfsG,sfG,dF?,gdf?g,dfg,g,s/F,s/,fsdfdsfdsfdsfile that wasn't working as expected was the erroneous one.
